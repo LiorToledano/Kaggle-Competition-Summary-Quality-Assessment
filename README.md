@@ -1,6 +1,4 @@
 # Kaggle Competition Project - Summary Quality Assessment 
-91st place Solution for CommonLit - Evaluate Student Summaries Kaggle competition (Top 5% - Silver Medal)
-
 ![Competition Badge](https://img.shields.io/badge/Kaggle-91st%20Place-brightgreen)
 
 This README file provides an overview of a Kaggle competition project in which I participated and achieved 91st place out of 2060 competitors. The project's objective was to develop a model that assesses the quality of summaries written by students in grades 3-12. The model evaluates the main idea and details representation, as well as the clarity, precision, and fluency of the language used in the summary. The project aimed to assist teachers in evaluating student work and provide immediate feedback to students.
