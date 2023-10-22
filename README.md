@@ -1,5 +1,5 @@
 # Kaggle Competition Project - Summary Quality Assessment 
-Top 5% - Silver Medal
+91st place Solution for CommonLit - Evaluate Student Summaries Kaggle competition (Top 5% - Silver Medal)
 
 ![Competition Badge](https://img.shields.io/badge/Kaggle-91st%20Place-brightgreen)
 
