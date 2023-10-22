@@ -49,7 +49,6 @@ To replicate this project, follow these steps:
 
 5. Evaluate the model's performance using appropriate evaluation metrics.
 
-Feel free to customize the README as needed, providing more specific details about your implementation, such as model hyperparameters, additional dependencies, and any additional sections that may be relevant to your project.
 ## Model Results
 
 Here are the results of different experiments with the model:
