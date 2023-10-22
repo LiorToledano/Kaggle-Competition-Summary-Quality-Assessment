@@ -1,4 +1,4 @@
-# Kaggle Competition Project - Summary Quality Assessment
+# Kaggle Competition Project - Summary Quality Assessment (Top 5% - Silver Medal)
 
 ![Competition Badge](https://img.shields.io/badge/Kaggle-91st%20Place-brightgreen)
 
